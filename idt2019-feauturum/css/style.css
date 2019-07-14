@@ -1,91 +1,91 @@
 :root {
-      --main__text-color: white;
-      --font__size-btn: 18px;
-      --width__btn: 100px;
-      --height__btn: 28px;
-      --border__radius-btn: 50px;
+    --main__text-color: white;
+    --font__size-btn: 18px;
+    --width__btn: 100px;
+    --height__btn: 28px;
+    --border__radius-btn: 50px;
 }
- /*-----------------------------Canvas------------------------------------*/
- body
- {
-    background:url(../img/city2.jpg) no-repeat center center fixed;
-    -webkit-background-size: 100%; 
-    -moz-background-size: 100%; 
-    -o-background-size: 100%; 
-    background-size: 100%; 
-	-webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
-      font-family: 'Orbitron', sans-serif;
+/*-----------------------------Canvas------------------------------------*/
+body
+{
+  background:url(../img/city2.jpg) no-repeat center center fixed;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Orbitron', sans-serif;
 }
- #pixie{position:fixed;}
+#pixie{position:fixed;}
 /* ---------------------------main__content------------------------------ */
 .wrapper {
-      width: 100%;
-      height: 40vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 h1 {
-      font-size: 50px;
-      letter-spacing: 3px;
-      color: var(--main__text-color);
-      margin: 0;
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: var(--main__text-color);
+    margin: 0;
 }
 h2 {
-      font-size: 30px;
-      letter-spacing: 3px;
-      color: var(--main__text-color);
+    font-size: 30px;
+    letter-spacing: 3px;
+    color: var(--main__text-color);
 }
 .text__intro {
-      color: var(--main__text-color);
-      font-size: 18px;
+    color: var(--main__text-color);
+    font-size: 18px;
 }
 .main__btn{
-      width: 40%;
-      margin-top: 35px;
-      display: flex;
-      justify-content: space-between;
-      
+    width: 40%;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    
 }
 /* -------------------------------btn------------------------------- */
 #start {
-      width: var(--width__btn);
-      height: var(--height__btn);
-      border-radius: var(--border__radius-btn);
-      font-size: var(--font__size-btn);
-      outline: none;
-      cursor: pointer;
+    width: var(--width__btn);
+    height: var(--height__btn);
+    border-radius: var(--border__radius-btn);
+    font-size: var(--font__size-btn);
+    outline: none;
+    cursor: pointer;
 }
 #stop {
-      width: var(--width__btn);
-      height: var(--height__btn);
-      border-radius: var(--border__radius-btn);
-      font-size: var(--font__size-btn);
-      outline: none;
-      cursor: pointer;
+    width: var(--width__btn);
+    height: var(--height__btn);
+    border-radius: var(--border__radius-btn);
+    font-size: var(--font__size-btn);
+    outline: none;
+    cursor: pointer;
 }
-#send {
-      width: var(--width__btn);
-      height: var(--height__btn);
-      border-radius: var(--border__radius-btn);
-      font-size: var(--font__size-btn);
-      outline: none;
-      cursor: pointer;
+#click {
+    width: var(--width__btn);
+    height: var(--height__btn);
+    border-radius: var(--border__radius-btn);
+    font-size: var(--font__size-btn);
+    outline: none;
+    cursor: pointer;
 }
 #stop:hover {
-      background-color: rgb(164, 86, 236);
-      color: white;
+    background-color: rgb(164, 86, 236);
+    color: white;
 }
 #start:hover {
-      background-color: rgb(164, 86, 236);
-      color: white;
+    background-color: rgb(164, 86, 236);
+    color: white;
 }
-#send:hover {
-      background-color: rgb(164, 86, 236);
-      color: white;
+#click:hover {
+    background-color: rgb(164, 86, 236);
+    color: white;
 }
 /* -------------------------------END---------------------------- */
