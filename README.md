@@ -4,7 +4,8 @@
 
 https://www.youtube.com/watch?v=2KmizEF-iwM - DEMO.
 
-__TEAM__ :.
+__TEAM__ :
+
 https://www.linkedin.com/in/churilo-oleg/ - **Front-end**.
 
 https://www.linkedin.com/in/m-drozdetskiy/ - **Back-end**.
