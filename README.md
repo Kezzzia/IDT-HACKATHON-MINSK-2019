@@ -25,6 +25,17 @@ __Team__ **FEAUTURUM** :
 * https://www.linkedin.com/in/konstantin-markovskiy-a7250814b/ - **Front-end developer**.
 
 ---
+--Technology Stack-- :
+* JavaScript.
+* HTML/CSS.
+* Django.
+* djangorestframework.
+* google-cloud-speech.
+* numpy.
+* pydub.
+* scipy.
+
+---
 
 **BACK-END** - (https://github.com/Drozdetskiy/IDT).
 
