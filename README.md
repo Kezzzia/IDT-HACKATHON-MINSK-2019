@@ -25,7 +25,7 @@ __Team__ **FEAUTURUM** :
 * https://www.linkedin.com/in/konstantin-markovskiy-a7250814b/ - **Front-end developer**.
 
 ---
---Technology Stack-- :
+__Technology Stack__ :
 * JavaScript.
 * HTML/CSS.
 * Django.
