@@ -9,6 +9,12 @@
 https://www.youtube.com/watch?v=2KmizEF-iwM - **DEMO**.
 
 ---
+**Presentation**
+
+* ``semi-final`` https://slides.com/keziagg/feauturum.
+
+* ``final`` https://slides.com/keziagg/deck-3.
+---
 
 __TEAM__ **FEAUTURUM** :
 
