@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=2KmizEF-iwM - **DEMO**.
 * ``final`` https://slides.com/keziagg/deck-3.
 ---
 
-__TEAM__ **FEAUTURUM** :
+__Team__ **FEAUTURUM** :
 
 * https://www.linkedin.com/in/churilo-oleg/ - **Front-end**.
 
@@ -26,6 +26,6 @@ __TEAM__ **FEAUTURUM** :
 
 ---
 
-**Back-end** - (https://github.com/Drozdetskiy/IDT).
+**BACK-END** - (https://github.com/Drozdetskiy/IDT).
 
 ---
