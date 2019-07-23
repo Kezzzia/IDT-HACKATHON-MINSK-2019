@@ -29,11 +29,11 @@ __Technology Stack__ :
 * JavaScript.
 * HTML/CSS.
 * Django.
-* djangorestframework.
-* google-cloud-speech.
-* numpy.
-* pydub.
-* scipy.
+* Djangorestframework.
+* Google-cloud-speech.
+* Numpy.
+* Pydub.
+* Scipy.
 * Jquery.
 
 ---
