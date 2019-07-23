@@ -34,6 +34,7 @@ __Technology Stack__ :
 * numpy.
 * pydub.
 * scipy.
+* Jquery.
 
 ---
 
