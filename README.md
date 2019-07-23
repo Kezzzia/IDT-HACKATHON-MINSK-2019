@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=2KmizEF-iwM - **DEMO**.
 
 ---
 
-__TEAM__ :
+__TEAM__ **FEAUTURUM** :
 
 * https://www.linkedin.com/in/churilo-oleg/ - **Front-end**.
 
